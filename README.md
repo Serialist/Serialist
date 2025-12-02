@@ -1,4 +1,6 @@
-## Hi there 👋
+## 
+- HAM, callsign BA3PT, CHDHAM club.
+- RMer(RoboMaster), from CHD VGD, wheel legged developer.
 
 <!--
 **Serialist/Serialist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
