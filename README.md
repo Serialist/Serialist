@@ -1,7 +1,7 @@
 # ABOUT ME
-- student
-- HAM, callsign BA3PT, CHDHAM club member.
-- RMer(RoboMaster), team VGD member, developing wheel legged.
+- a student.
+- radio amateur, callsign BA3PT, member of CHDHAM club.
+- member of RoboMaster team VGD, developing wheel-legged.
 
 <!--
 **Serialist/Serialist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
